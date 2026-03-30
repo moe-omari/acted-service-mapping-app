@@ -1,0 +1,2979 @@
+﻿[
+  {
+    "id": 52,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Al-Durra",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Walid Abed",
+    "focal phone number": "562020921",
+    "coordinates": {
+      "latitude": 31.429557,
+      "longitude": 34.3537
+    }
+  },
+  {
+    "id": 53,
+    "name": "Water Trucking Distribution Point - Basmat Amal Site",
+    "siteName": "ALMuktar faisal",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Wisam Atta Al-Abadleh",
+    "focal phone number": "599737956",
+    "coordinates": {
+      "latitude": 31.393099,
+      "longitude": 34.312172
+    }
+  },
+  {
+    "id": 54,
+    "name": "Community Kitchen - Tekeya - Basmat Amal Site",
+    "siteName": "ALMuktar faisal",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Wisam Atta Al-Abadleh",
+    "focal phone number": "599737956",
+    "coordinates": {
+      "latitude": 31.392603,
+      "longitude": 34.311937
+    }
+  },
+  {
+    "id": 55,
+    "name": "TLS/School",
+    "siteName": "Al-Durra",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Nashat Hammad",
+    "focal phone number": "598412712",
+    "coordinates": {
+      "latitude": 31.42827,
+      "longitude": 34.352323
+    }
+  },
+  {
+    "id": 56,
+    "name": "Distribution Point",
+    "siteName": "Al-Durra",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Mousa Ayad",
+    "focal phone number": "598282982",
+    "coordinates": {
+      "latitude": 31.429291,
+      "longitude": 34.353237
+    }
+  },
+  {
+    "id": 57,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Al-Durra",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Mousa Rajab Mousa Ayad",
+    "focal phone number": "598282982",
+    "coordinates": {
+      "latitude": 31.429291,
+      "longitude": 34.353237
+    }
+  },
+  {
+    "id": 58,
+    "name": "Community Space",
+    "siteName": "Al-Durra",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Mona Mohammad Aref Al-Sheikh",
+    "focal phone number": "599740238",
+    "coordinates": {
+      "latitude": 31.429626,
+      "longitude": 34.352318
+    }
+  },
+  {
+    "id": 59,
+    "name": "Community Space",
+    "siteName": "ALMuktar faisal",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Mohammad Faisal Al-Abdadleh",
+    "focal phone number": "599858588",
+    "coordinates": {
+      "latitude": 31.392496,
+      "longitude": 34.315283
+    }
+  },
+  {
+    "id": 60,
+    "name": "Health Space/Clinic",
+    "siteName": "ALMuktar faisal",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Mohammad Omar Hijazi",
+    "focal phone number": "567717139",
+    "coordinates": {
+      "latitude": 31.394403,
+      "longitude": 34.312556
+    }
+  },
+  {
+    "id": 61,
+    "name": "TLS/School",
+    "siteName": "ALMuktar faisal",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Lubna Mohammad Al-Abadleh",
+    "focal phone number": "592157168",
+    "coordinates": {
+      "latitude": 31.392175,
+      "longitude": 34.315319
+    }
+  },
+  {
+    "id": 62,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Asqalan",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Karam Jawhar",
+    "focal phone number": "598685805",
+    "coordinates": {
+      "latitude": 31.429848,
+      "longitude": 34.346086
+    }
+  },
+  {
+    "id": 63,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Al-Durra",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Fayez Salem Al-Arour",
+    "focal phone number": "592667952",
+    "coordinates": {
+      "latitude": 31.429494,
+      "longitude": 34.353365
+    }
+  },
+  {
+    "id": 64,
+    "name": "Distribution Point",
+    "siteName": "ALMuktar faisal",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Fares Abu Daher",
+    "focal phone number": "567509809",
+    "coordinates": {
+      "latitude": 31.39246,
+      "longitude": 34.315289
+    }
+  },
+  {
+    "id": 65,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Asia",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Issam Mohammad Oweikel",
+    "focal phone number": "592312175",
+    "coordinates": {
+      "latitude": 31.424846,
+      "longitude": 34.349719
+    }
+  },
+  {
+    "id": 66,
+    "name": "Community Space",
+    "siteName": "Bilal Bin Rabah",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Abdulrahman Nayef Abu Khosah",
+    "focal phone number": "599330045",
+    "coordinates": {
+      "latitude": 31.424555,
+      "longitude": 34.352538
+    }
+  },
+  {
+    "id": 74,
+    "name": "Community Space",
+    "siteName": "Smile",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Sidqi Al-Abadleh",
+    "focal phone number": "593700011",
+    "coordinates": {
+      "latitude": 31.395306,
+      "longitude": 34.310278
+    }
+  },
+  {
+    "id": 75,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Asia",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Sameer Mohammad Ahmad Oweis",
+    "focal phone number": "599494342",
+    "coordinates": {
+      "latitude": 31.425059,
+      "longitude": 34.349372
+    }
+  },
+  {
+    "id": 76,
+    "name": "Community Kitchen - Tekeya - Al-Aydy Al-Raheema",
+    "siteName": "ALMuktar faisal",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Zaidan Hussein Kawarea",
+    "focal phone number": "599342326",
+    "coordinates": {
+      "latitude": 31.390027,
+      "longitude": 34.315869
+    }
+  },
+  {
+    "id": 77,
+    "name": "Nutrition Center",
+    "siteName": "ALMuktar faisal",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Doaa Al-Saqqa",
+    "focal phone number": "598837077",
+    "coordinates": {
+      "latitude": 31.392448,
+      "longitude": 34.315268
+    }
+  },
+  {
+    "id": 78,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "ALMuktar faisal",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Hussein Fahmi Abu Eida",
+    "focal phone number": "592495642",
+    "coordinates": {
+      "latitude": 31.392633,
+      "longitude": 34.315237
+    }
+  },
+  {
+    "id": 79,
+    "name": "Community Space",
+    "siteName": "Asia",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Hassan Abdulsalam Hassan Abu Salmiya",
+    "focal phone number": "599979323",
+    "coordinates": {
+      "latitude": 31.424846,
+      "longitude": 34.349719
+    }
+  },
+  {
+    "id": 80,
+    "name": "Distribution Point",
+    "siteName": "Bilal Bin Rabah",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Tamer Ahmad Al-Areeni",
+    "focal phone number": "599475448",
+    "coordinates": {
+      "latitude": 31.424607,
+      "longitude": 34.352642
+    }
+  },
+  {
+    "id": 81,
+    "name": "Distribution Point",
+    "siteName": "Asia",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Iyad Jameel Maarouf",
+    "focal phone number": "592053362",
+    "coordinates": {
+      "latitude": 31.424846,
+      "longitude": 34.349719
+    }
+  },
+  {
+    "id": 82,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Asia",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Ameen Younis Salameh Abu Hamdal",
+    "focal phone number": "599916300",
+    "coordinates": {
+      "latitude": 31.426861,
+      "longitude": 34.346357
+    }
+  },
+  {
+    "id": 83,
+    "name": "Community Space",
+    "siteName": "Asia",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Ameen Younis Salameh Abu Hamdal",
+    "focal phone number": "599916300",
+    "coordinates": {
+      "latitude": 31.426702,
+      "longitude": 34.346531
+    }
+  },
+  {
+    "id": 84,
+    "name": "Water Trucking Distribution Point - Al-Ruhamaa` Site",
+    "siteName": "ALMuktar faisal",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ibrahim Saeed Al-Abadleh",
+    "focal phone number": "599737956",
+    "coordinates": {
+      "latitude": 31.39367,
+      "longitude": 34.314439
+    }
+  },
+  {
+    "id": 85,
+    "name": "Water Trucking Distribution Point - Al-Mukhtar Faisal",
+    "siteName": "ALMuktar faisal",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ibrahim Saeed Al-Abadleh",
+    "focal phone number": "598206090",
+    "coordinates": {
+      "latitude": 31.392703,
+      "longitude": 34.315423
+    }
+  },
+  {
+    "id": 101,
+    "name": "Nutrition Center - Ard Al-Insan x IRC",
+    "siteName": "Smile",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Yafa Ramadan",
+    "focal phone number": "597374522",
+    "coordinates": {
+      "latitude": 31.395512477188003,
+      "longitude": 34.31032754233002
+    }
+  },
+  {
+    "id": 106,
+    "name": "Water Trucking Distribution Point (Acted)",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Tariq Abu Mutaq   ",
+    "focal phone number": "599769043",
+    "coordinates": {
+      "latitude": 31.435967,
+      "longitude": 34.348942
+    }
+  },
+  {
+    "id": 108,
+    "name": "Community Kitchen - Future Youth Kitchen",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Sultan Abu Halib",
+    "focal phone number": "597179753",
+    "coordinates": {
+      "latitude": 31.389655,
+      "longitude": 34.3119567
+    }
+  },
+  {
+    "id": 109,
+    "name": "Water Trucking Distribution Point (MSF)",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Subhi Al-Musalaha  ",
+    "focal phone number": "592990422",
+    "coordinates": {
+      "latitude": 31.434544,
+      "longitude": 34.349836
+    }
+  },
+  {
+    "id": 110,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Al-Quds",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Subhi Al-Musalaha  ",
+    "focal phone number": "599854723",
+    "coordinates": {
+      "latitude": 31.4344219,
+      "longitude": 34.3566791
+    }
+  },
+  {
+    "id": 113,
+    "name": "Community Space",
+    "siteName": "Al-Aqqad",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Smar Alabadla",
+    "focal phone number": "599335103",
+    "coordinates": {
+      "latitude": 31.397265,
+      "longitude": 34.316188
+    }
+  },
+  {
+    "id": 119,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Bilal Bin Rabah",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Shady Nayef Al-Sama`na",
+    "focal phone number": "599443214",
+    "coordinates": {
+      "latitude": 31.424635,
+      "longitude": 34.352825
+    }
+  },
+  {
+    "id": 142,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Osama AboHadaf",
+    "focal phone number": "599864091",
+    "coordinates": {
+      "latitude": 31.400679,
+      "longitude": 34.311151
+    }
+  },
+  {
+    "id": 146,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Nashaat Al-Masry",
+    "focal phone number": "598405356",
+    "coordinates": {
+      "latitude": 31.3902354,
+      "longitude": 34.3135873
+    }
+  },
+  {
+    "id": 147,
+    "name": "Community Kitchen - WCK",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Nashaat Al-Masry",
+    "focal phone number": "598405356",
+    "coordinates": {
+      "latitude": 31.3902354,
+      "longitude": 34.3135873
+    }
+  },
+  {
+    "id": 150,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Nafi Abu Juwaifel",
+    "focal phone number": "598065149",
+    "coordinates": {
+      "latitude": 31.436291,
+      "longitude": 34.349297
+    }
+  },
+  {
+    "id": 151,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Nafi Abu Juwaifel",
+    "focal phone number": "598065149",
+    "coordinates": {
+      "latitude": 31.436197,
+      "longitude": 34.351375
+    }
+  },
+  {
+    "id": 152,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Nafi Abu Juwaifel",
+    "focal phone number": "598065149",
+    "coordinates": {
+      "latitude": 31.435763,
+      "longitude": 34.349118
+    }
+  },
+  {
+    "id": 153,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Nafi Abu Juwaifel",
+    "focal phone number": "598065149",
+    "coordinates": {
+      "latitude": 31.435358,
+      "longitude": 34.350275
+    }
+  },
+  {
+    "id": 154,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Nafi Abu Juwaifel",
+    "focal phone number": "598065149",
+    "coordinates": {
+      "latitude": 31.435352,
+      "longitude": 34.348713
+    }
+  },
+  {
+    "id": 155,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Nafi Abu Juwaifel",
+    "focal phone number": "598065149",
+    "coordinates": {
+      "latitude": 31.434955,
+      "longitude": 34.350075
+    }
+  },
+  {
+    "id": 156,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Nafi Abu Juwaifel",
+    "focal phone number": "598065149",
+    "coordinates": {
+      "latitude": 31.434667,
+      "longitude": 34.348893
+    }
+  },
+  {
+    "id": 161,
+    "name": "Water Trucking Distribution (We World)",
+    "siteName": "Al-Quds",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Nabeel Abu Al-Qunbuz",
+    "focal phone number": "599854723",
+    "coordinates": {
+      "latitude": 31.4348175,
+      "longitude": 34.3527386
+    }
+  },
+  {
+    "id": 162,
+    "name": "Distribution Point",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Mutee Zayed   ",
+    "focal phone number": "599471746",
+    "coordinates": {
+      "latitude": 31.435383,
+      "longitude": 34.350152
+    }
+  },
+  {
+    "id": 165,
+    "name": "TLS/School",
+    "siteName": "Al-Mostafa",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Muhammad Abu Haloub",
+    "focal phone number": "592457242",
+    "coordinates": {
+      "latitude": 31.430328,
+      "longitude": 34.35397
+    }
+  },
+  {
+    "id": 166,
+    "name": "Community Kitchen",
+    "siteName": "Al-Mostafa",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "moyan al mgary                                ",
+    "focal phone number": "598377333",
+    "coordinates": {
+      "latitude": 31.431852,
+      "longitude": 34.349763
+    }
+  },
+  {
+    "id": 167,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Al-Mostafa",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "moyan al mgary ",
+    "focal phone number": "598377333",
+    "coordinates": {
+      "latitude": 31.431852,
+      "longitude": 34.349763
+    }
+  },
+  {
+    "id": 168,
+    "name": "Community Space",
+    "siteName": "Al-Mostafa",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "moyan al mgary",
+    "focal phone number": "598377333",
+    "coordinates": {
+      "latitude": 31.431852,
+      "longitude": 34.349763
+    }
+  },
+  {
+    "id": 175,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Asqalan",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Mohareb Mohareb",
+    "focal phone number": "599319785",
+    "coordinates": {
+      "latitude": 31.430374,
+      "longitude": 34.346766
+    }
+  },
+  {
+    "id": 179,
+    "name": "Community Kitchen - WCK",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Mohammed Kwara",
+    "focal phone number": "567808802",
+    "coordinates": {
+      "latitude": 31.3902168,
+      "longitude": 34.3120979
+    }
+  },
+  {
+    "id": 180,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Al-Aqqad",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Mohammed Bassam Alabadla\n",
+    "focal phone number": "599635544",
+    "coordinates": {
+      "latitude": 31.392155,
+      "longitude": 34.316274
+    }
+  },
+  {
+    "id": 181,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Al-Aqqad",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Mohammed Alaqaad",
+    "focal phone number": "598837106",
+    "coordinates": {
+      "latitude": 31.395763,
+      "longitude": 34.313917
+    }
+  },
+  {
+    "id": 182,
+    "name": "TLS/School (ECCD/SCI)",
+    "siteName": "Al-Karama",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Mohammd Al-Masri",
+    "focal phone number": "594509559",
+    "coordinates": {
+      "latitude": 31.42559,
+      "longitude": 34.346003
+    }
+  },
+  {
+    "id": 188,
+    "name": "Water Trucking Distribution (Ø§ØµØ¯Ù‚Ø§Ø¡ Ø§Ù„Ø¨ÙŠØ¦Ø©)",
+    "siteName": "Al-Quds",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Mohammad Hamad",
+    "focal phone number": "598333992",
+    "coordinates": {
+      "latitude": 31.4344219,
+      "longitude": 34.3566791
+    }
+  },
+  {
+    "id": 196,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Bilal Bin Rabah",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Mohammad Ali Is`efan",
+    "focal phone number": "597246558",
+    "coordinates": {
+      "latitude": 31.424427,
+      "longitude": 34.352528
+    }
+  },
+  {
+    "id": 209,
+    "name": "Community Kitchen - WCK",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Moaz Hajj Ahmed",
+    "focal phone number": "599624646",
+    "coordinates": {
+      "latitude": 31.39124,
+      "longitude": 34.312165
+    }
+  },
+  {
+    "id": 211,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Marwan Kwara",
+    "focal phone number": "599928128",
+    "coordinates": {
+      "latitude": 31.3896421,
+      "longitude": 34.3154147
+    }
+  },
+  {
+    "id": 212,
+    "name": "Community Kitchen - WCK",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Marwan Kwara",
+    "focal phone number": "599928128",
+    "coordinates": {
+      "latitude": 31.3896421,
+      "longitude": 34.3154147
+    }
+  },
+  {
+    "id": 220,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Al-Mostafa",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "maher abo foraya",
+    "focal phone number": "593114464",
+    "coordinates": {
+      "latitude": 31.431752,
+      "longitude": 34.35256
+    }
+  },
+  {
+    "id": 221,
+    "name": "Community Kitchen",
+    "siteName": "Al-Mostafa",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "maher abo foraya",
+    "focal phone number": "593114464",
+    "coordinates": {
+      "latitude": 31.431782,
+      "longitude": 34.35256
+    }
+  },
+  {
+    "id": 222,
+    "name": "TLS/School",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Lubna Al-Samiri\n",
+    "focal phone number": "598744037",
+    "coordinates": {
+      "latitude": 31.398627,
+      "longitude": 34.314771
+    }
+  },
+  {
+    "id": 223,
+    "name": "TLS/School",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Louay Nassar",
+    "focal phone number": "599164187",
+    "coordinates": {
+      "latitude": 31.436792,
+      "longitude": 34.350258
+    }
+  },
+  {
+    "id": 235,
+    "name": "Community Kitchen - Tekeya - WCK - Save Youth Future Society (SYFS)",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Kefah AboHadaf",
+    "focal phone number": "599309182",
+    "coordinates": {
+      "latitude": 31.4003,
+      "longitude": 34.312303
+    }
+  },
+  {
+    "id": 237,
+    "name": "Water Trucking Distribution Point (Acted)",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Jabr Mahani           ",
+    "focal phone number": "592181526",
+    "coordinates": {
+      "latitude": 31.433957,
+      "longitude": 34.347145
+    }
+  },
+  {
+    "id": 238,
+    "name": "Community Space",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Jabr Mahani  ",
+    "focal phone number": "592181526",
+    "coordinates": {
+      "latitude": 31.433793,
+      "longitude": 34.347777
+    }
+  },
+  {
+    "id": 239,
+    "name": "Distribution Point",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Jabr Mahani",
+    "focal phone number": "592181526",
+    "coordinates": {
+      "latitude": 31.433793,
+      "longitude": 34.347777
+    }
+  },
+  {
+    "id": 242,
+    "name": "Community Space",
+    "siteName": "Al-Mostafa",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Iyad Al-Taweel        ",
+    "focal phone number": "599990732",
+    "coordinates": {
+      "latitude": 31.432062,
+      "longitude": 34.35412
+    }
+  },
+  {
+    "id": 243,
+    "name": "Community Kitchen",
+    "siteName": "Al-Mostafa",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "iyad Al-Taweel  ",
+    "focal phone number": "599990732",
+    "coordinates": {
+      "latitude": 31.43162,
+      "longitude": 34.353855
+    }
+  },
+  {
+    "id": 244,
+    "name": "Distribution Point",
+    "siteName": "Al-Mostafa",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Iyad Al-Taweel",
+    "focal phone number": "599990732",
+    "coordinates": {
+      "latitude": 31.432062,
+      "longitude": 34.35412
+    }
+  },
+  {
+    "id": 245,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Al-Mostafa",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Iyad Al-Taweel",
+    "focal phone number": "599990732",
+    "coordinates": {
+      "latitude": 31.43162,
+      "longitude": 34.353855
+    }
+  },
+  {
+    "id": 255,
+    "name": "Distribution Point",
+    "siteName": "Al-Aqqad",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ihab Alabadla",
+    "focal phone number": "593222112",
+    "coordinates": {
+      "latitude": 31.397297,
+      "longitude": 34.316231
+    }
+  },
+  {
+    "id": 264,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ibrahim Abdullah\n\n\n",
+    "focal phone number": "598837768",
+    "coordinates": {
+      "latitude": 31.396973,
+      "longitude": 34.315192
+    }
+  },
+  {
+    "id": 269,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Smile",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Hesham Al-Menefe",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.396538264816527,
+      "longitude": 34.306369999999994
+    }
+  },
+  {
+    "id": 270,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Smile",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Hesham Al-Menefe",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.395472,
+      "longitude": 34.310222
+    }
+  },
+  {
+    "id": 271,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Smile",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Hesham Al-Menefe",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.395037136261145,
+      "longitude": 34.30200799600339
+    }
+  },
+  {
+    "id": 272,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Smile",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Hesham Al-Menefe",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.394417,
+      "longitude": 34.309611
+    }
+  },
+  {
+    "id": 273,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Smile",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Hesham Al-Menefe",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.394381428676283,
+      "longitude": 34.309069
+    }
+  },
+  {
+    "id": 274,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Al-Karama",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Hazem Al-Masri",
+    "focal phone number": "599163043",
+    "coordinates": {
+      "latitude": 31.42553,
+      "longitude": 34.34639
+    }
+  },
+  {
+    "id": 278,
+    "name": "Community Kitchen - WCK",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Hamada Amran",
+    "focal phone number": "595429698",
+    "coordinates": {
+      "latitude": 31.3878741,
+      "longitude": 34.3152209
+    }
+  },
+  {
+    "id": 279,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Hamada Amran",
+    "focal phone number": "595429698",
+    "coordinates": {
+      "latitude": 31.3878741,
+      "longitude": 34.3152209
+    }
+  },
+  {
+    "id": 289,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Fawzi Abu Mostfa",
+    "focal phone number": "592728400",
+    "coordinates": {
+      "latitude": 31.3902354,
+      "longitude": 34.3135873
+    }
+  },
+  {
+    "id": 290,
+    "name": "Community Kitchen - WCK",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Fawzi Abu Mostfa",
+    "focal phone number": "592728400",
+    "coordinates": {
+      "latitude": 31.3902354,
+      "longitude": 34.3135873
+    }
+  },
+  {
+    "id": 293,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Farid Dawood",
+    "focal phone number": "567464741",
+    "coordinates": {
+      "latitude": 31.434279,
+      "longitude": 34.350142
+    }
+  },
+  {
+    "id": 294,
+    "name": "Water Trucking Distribution Point (Acted)",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Farid Daoud      ",
+    "focal phone number": "567464741",
+    "coordinates": {
+      "latitude": 31.436985,
+      "longitude": 34.3501
+    }
+  },
+  {
+    "id": 295,
+    "name": "Community Space",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Farid Daoud",
+    "focal phone number": "567464741",
+    "coordinates": {
+      "latitude": 31.436507,
+      "longitude": 34.351203
+    }
+  },
+  {
+    "id": 296,
+    "name": "Water Trucking Distribution Point (MSF)",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Farid Daoud",
+    "focal phone number": "567464741",
+    "coordinates": {
+      "latitude": 31.436337,
+      "longitude": 34.350258
+    }
+  },
+  {
+    "id": 298,
+    "name": "Distribution Point",
+    "siteName": "Smile",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Fadi Alabadla",
+    "focal phone number": "594102000",
+    "coordinates": {
+      "latitude": 31.395401793576575,
+      "longitude": 34.31023808466004
+    }
+  },
+  {
+    "id": 299,
+    "name": "Health Space/Clinic - Lavender Clinic",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ezz El-Din Atta Zaarab",
+    "focal phone number": "599901682",
+    "coordinates": {
+      "latitude": 31.3888356,
+      "longitude": 34.3152733
+    }
+  },
+  {
+    "id": 300,
+    "name": "Community Kitchen - WCK",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ezz El-Din Atta Zaarab",
+    "focal phone number": "599901682",
+    "coordinates": {
+      "latitude": 31.3884703,
+      "longitude": 34.3151429
+    }
+  },
+  {
+    "id": 302,
+    "name": "Community Space",
+    "siteName": "Al-Aqqad",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ehab Al-Abadleh",
+    "focal phone number": "593222112",
+    "coordinates": {
+      "latitude": 31.397274,
+      "longitude": 34.316341
+    }
+  },
+  {
+    "id": 303,
+    "name": "Community Space",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ehab Al-Abadleh",
+    "focal phone number": "593222112",
+    "coordinates": {
+      "latitude": 31.397274,
+      "longitude": 34.316341
+    }
+  },
+  {
+    "id": 304,
+    "name": "Distribution Point",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ehab Al-Abadleh",
+    "focal phone number": "593222112",
+    "coordinates": {
+      "latitude": 31.397274,
+      "longitude": 34.316341
+    }
+  },
+  {
+    "id": 305,
+    "name": "Distribution Point",
+    "siteName": "Zorub",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "Ebrahem Kamel Zourb",
+    "focal phone number": "597410533",
+    "coordinates": {
+      "latitude": 31.348226,
+      "longitude": 34.258639
+    }
+  },
+  {
+    "id": 306,
+    "name": "TLS/School",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Dr. Salem Musleh",
+    "focal phone number": "599688648",
+    "coordinates": {
+      "latitude": 31.399152,
+      "longitude": 34.31533
+    }
+  },
+  {
+    "id": 310,
+    "name": "Community Space",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Dawood Al-Munifi",
+    "focal phone number": "598059083",
+    "coordinates": {
+      "latitude": 31.39124,
+      "longitude": 34.312165
+    }
+  },
+  {
+    "id": 311,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Dawood Al-Munifi",
+    "focal phone number": "598059083",
+    "coordinates": {
+      "latitude": 31.39105,
+      "longitude": 34.312573
+    }
+  },
+  {
+    "id": 312,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Dawood Al-Munifi",
+    "focal phone number": "598059083",
+    "coordinates": {
+      "latitude": 31.39105,
+      "longitude": 34.312573
+    }
+  },
+  {
+    "id": 318,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Al-Aqqad",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ayman Aradaa",
+    "focal phone number": "562449923",
+    "coordinates": {
+      "latitude": 31.394182,
+      "longitude": 34.316879
+    }
+  },
+  {
+    "id": 319,
+    "name": "Community Kitchen - Tekeya (WCK)",
+    "siteName": "Al-Karama",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Ayman Arada",
+    "focal phone number": "562449923",
+    "coordinates": {
+      "latitude": 31.425601,
+      "longitude": 34.346282
+    }
+  },
+  {
+    "id": 320,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Smile",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ayman Arada",
+    "focal phone number": "562449923",
+    "coordinates": {
+      "latitude": 31.396501633032962,
+      "longitude": 34.306402186504954
+    }
+  },
+  {
+    "id": 321,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Smile",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ayman Arada",
+    "focal phone number": "562449923",
+    "coordinates": {
+      "latitude": 31.39569610898472,
+      "longitude": 34.31023172883498
+    }
+  },
+  {
+    "id": 322,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Smile",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ayman Arada",
+    "focal phone number": "562449923",
+    "coordinates": {
+      "latitude": 31.395082926702695,
+      "longitude": 34.302050911343336
+    }
+  },
+  {
+    "id": 323,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Smile",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ayman Arada",
+    "focal phone number": "562449923",
+    "coordinates": {
+      "latitude": 31.394630795381556,
+      "longitude": 34.309612271165015
+    }
+  },
+  {
+    "id": 325,
+    "name": "Nutrition Center - Ard Al-Insan x WFP",
+    "siteName": "Smile",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Asmaa Abu Mosatafa",
+    "focal phone number": "599167068",
+    "coordinates": {
+      "latitude": 31.39545063539102,
+      "longitude": 34.31046827116502
+    }
+  },
+  {
+    "id": 326,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Al-Quds",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Ashraf Al-A`r",
+    "focal phone number": "599854723",
+    "coordinates": {
+      "latitude": 31.4348175,
+      "longitude": 34.3527386
+    }
+  },
+  {
+    "id": 327,
+    "name": "Community Space",
+    "siteName": "Al-Quds",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Ashraf Al-A`r",
+    "focal phone number": "599564950",
+    "coordinates": {
+      "latitude": 31.433655,
+      "longitude": 34.353929
+    }
+  },
+  {
+    "id": 328,
+    "name": "Water Trucking Distribution (MSF)",
+    "siteName": "Al-Quds",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Ashraf Al-A`r",
+    "focal phone number": "599564950",
+    "coordinates": {
+      "latitude": 31.4331294,
+      "longitude": 34.3539547
+    }
+  },
+  {
+    "id": 354,
+    "name": "Distribution Point",
+    "siteName": "Alaa Abdeen",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "Ala'a Fawzy Abdin",
+    "focal phone number": "592196930",
+    "coordinates": {
+      "latitude": 31.349058,
+      "longitude": 34.25286
+    }
+  },
+  {
+    "id": 355,
+    "name": "Distribution Point",
+    "siteName": "Alaa Abdeen",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "Ala'a Fawzy Abdin",
+    "focal phone number": "592196930",
+    "coordinates": {
+      "latitude": 31.348915,
+      "longitude": 34.252681
+    }
+  },
+  {
+    "id": 358,
+    "name": "Distribution Point",
+    "siteName": "Al-Bayari",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "Akram Fathi Al-Bayyari",
+    "focal phone number": "599619111",
+    "coordinates": {
+      "latitude": 31.345597,
+      "longitude": 34.262916
+    }
+  },
+  {
+    "id": 362,
+    "name": "Community Space",
+    "siteName": "Al-Karama",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Ahmed Qasem",
+    "focal phone number": "593440754",
+    "coordinates": {
+      "latitude": 31.425673,
+      "longitude": 34.346182
+    }
+  },
+  {
+    "id": 363,
+    "name": "Distribution Point",
+    "siteName": "Al-Shaer",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "Ahmed Noor Ataya",
+    "focal phone number": "592100756",
+    "coordinates": {
+      "latitude": 31.347316,
+      "longitude": 34.260502
+    }
+  },
+  {
+    "id": 364,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ahmed Mhana",
+    "focal phone number": "599916160",
+    "coordinates": {
+      "latitude": 31.3917847,
+      "longitude": 34.3114806
+    }
+  },
+  {
+    "id": 365,
+    "name": "Community Kitchen - WCK",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ahmed Mhana",
+    "focal phone number": "599916160",
+    "coordinates": {
+      "latitude": 31.3917847,
+      "longitude": 34.3114806
+    }
+  },
+  {
+    "id": 366,
+    "name": "Distribution Point",
+    "siteName": "Al-Suniyah",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "Ahmed Khames Khalel Shath",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.343469,
+      "longitude": 34.260499
+    }
+  },
+  {
+    "id": 369,
+    "name": "Community Kitchen - WCK",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ahmed Al-Suwaisi",
+    "focal phone number": "567727008",
+    "coordinates": {
+      "latitude": 31.39124,
+      "longitude": 34.312165
+    }
+  },
+  {
+    "id": 385,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Asqalan",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Abdelsalam Deeb",
+    "focal phone number": "593513374",
+    "coordinates": {
+      "latitude": 31.432042,
+      "longitude": 34.345082
+    }
+  },
+  {
+    "id": 387,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Shams",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "\nMohammed AboHadaf",
+    "focal phone number": "599946635",
+    "coordinates": {
+      "latitude": 31.396714,
+      "longitude": 34.31189
+    }
+  },
+  {
+    "id": 388,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Asia",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Ameen Younis Salama Abu Hamdal",
+    "focal phone number": "599916300",
+    "coordinates": {
+      "latitude": 31.426702,
+      "longitude": 34.346531
+    }
+  },
+  {
+    "id": 389,
+    "name": "Distribution Point",
+    "siteName": "Asia",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Ameen Younis Salama Abu Hamdal",
+    "focal phone number": "599916300",
+    "coordinates": {
+      "latitude": 31.426702,
+      "longitude": 34.346531
+    }
+  },
+  {
+    "id": 393,
+    "name": "Distribution Point",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": " Farid Daoud",
+    "focal phone number": "567464743",
+    "coordinates": {
+      "latitude": 31.436509,
+      "longitude": 34.351203
+    }
+  },
+  {
+    "id": 394,
+    "name": "Health Space/Clinic (Ard Al-Insan)",
+    "siteName": "Al-Quds",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.4338423,
+      "longitude": 34.3523386
+    }
+  },
+  {
+    "id": 395,
+    "name": "Distribution Point",
+    "siteName": "Al-Quds",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "592211419",
+    "coordinates": {
+      "latitude": 31.433655,
+      "longitude": 34.353929
+    }
+  },
+  {
+    "id": 396,
+    "name": "Health Space/Clinic",
+    "siteName": "Al-Durra",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.432654,
+      "longitude": 34.345671
+    }
+  },
+  {
+    "id": 397,
+    "name": "Health Space/Clinic",
+    "siteName": "Al-Mostafa",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.432654,
+      "longitude": 34.345671
+    }
+  },
+  {
+    "id": 398,
+    "name": "Health Space/Clinic",
+    "siteName": "Musadar Al-Bahar",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.432654,
+      "longitude": 34.345671
+    }
+  },
+  {
+    "id": 399,
+    "name": "Health Space/Clinic - IMC",
+    "siteName": "Asqalan",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "567300111",
+    "coordinates": {
+      "latitude": 31.432635,
+      "longitude": 34.345876
+    }
+  },
+  {
+    "id": 400,
+    "name": "Community Space",
+    "siteName": "Asqalan",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "599580840",
+    "coordinates": {
+      "latitude": 31.432042,
+      "longitude": 34.345082
+    }
+  },
+  {
+    "id": 401,
+    "name": "Nutrition Center",
+    "siteName": "Asqalan",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "599018546",
+    "coordinates": {
+      "latitude": 31.432042,
+      "longitude": 34.345082
+    }
+  },
+  {
+    "id": 402,
+    "name": "Community Space",
+    "siteName": "Asqalan",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "597795041",
+    "coordinates": {
+      "latitude": 31.430374,
+      "longitude": 34.346766
+    }
+  },
+  {
+    "id": 403,
+    "name": "Nutrition Center",
+    "siteName": "Asqalan",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "59779501",
+    "coordinates": {
+      "latitude": 31.430374,
+      "longitude": 34.346766
+    }
+  },
+  {
+    "id": 404,
+    "name": "Nutrition Center",
+    "siteName": "Asqalan",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "597219615",
+    "coordinates": {
+      "latitude": 31.430374,
+      "longitude": 34.346766
+    }
+  },
+  {
+    "id": 405,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Al-Mostafa",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.430238,
+      "longitude": 34.354278
+    }
+  },
+  {
+    "id": 406,
+    "name": "Nutrition Center",
+    "siteName": "Asqalan",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "599332141",
+    "coordinates": {
+      "latitude": 31.430034,
+      "longitude": 34.345892
+    }
+  },
+  {
+    "id": 407,
+    "name": "Community Space",
+    "siteName": "Asqalan",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "567300111",
+    "coordinates": {
+      "latitude": 31.430034,
+      "longitude": 34.345892
+    }
+  },
+  {
+    "id": 408,
+    "name": "Health Space/Clinic - IMC",
+    "siteName": "Asqalan",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "567300111",
+    "coordinates": {
+      "latitude": 31.429684,
+      "longitude": 34.346766
+    }
+  },
+  {
+    "id": 409,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Al-Durra",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.4294982,
+      "longitude": 34.3513717
+    }
+  },
+  {
+    "id": 410,
+    "name": "Community Space",
+    "siteName": "Al-Durra",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.429291,
+      "longitude": 34.353237
+    }
+  },
+  {
+    "id": 411,
+    "name": "TLS/School - UN",
+    "siteName": "Asqalan",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.428811,
+      "longitude": 34.345311
+    }
+  },
+  {
+    "id": 424,
+    "name": "Health Space/Clinic - UNRWA",
+    "siteName": "Zorub",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.352298,
+      "longitude": 34.256485
+    }
+  },
+  {
+    "id": 426,
+    "name": "Community Kitchen ( Thaqafa w Fakr Al hor )",
+    "siteName": "Alaa Abdeen",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.3518504,
+      "longitude": 34.253772
+    }
+  },
+  {
+    "id": 430,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Zorub",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.349789,
+      "longitude": 34.259826
+    }
+  },
+  {
+    "id": 431,
+    "name": "TLS/School - Al-Amal",
+    "siteName": "Alaa Abdeen",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.34957155,
+      "longitude": 34.253417999
+    }
+  },
+  {
+    "id": 432,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Zorub",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.349075,
+      "longitude": 34.259197
+    }
+  },
+  {
+    "id": 433,
+    "name": "Community Space",
+    "siteName": "Alaa Abdeen",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.349058,
+      "longitude": 34.25286
+    }
+  },
+  {
+    "id": 434,
+    "name": "Nutrition Center",
+    "siteName": "Alaa Abdeen",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.349058,
+      "longitude": 34.25286
+    }
+  },
+  {
+    "id": 435,
+    "name": "Community Space",
+    "siteName": "Alaa Abdeen",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.348915,
+      "longitude": 34.252681
+    }
+  },
+  {
+    "id": 436,
+    "name": "Community Kitchen ( Abo Zaid)",
+    "siteName": "Alaa Abdeen",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.348555,
+      "longitude": 34.250278
+    }
+  },
+  {
+    "id": 437,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Alaa Abdeen",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.34819174,
+      "longitude": 34.2531578
+    }
+  },
+  {
+    "id": 438,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Zorub",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.348112,
+      "longitude": 34.262379
+    }
+  },
+  {
+    "id": 439,
+    "name": "TLS/School ( Al Mansy )",
+    "siteName": "Al-Bayari",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.347879,
+      "longitude": 34.267643
+    }
+  },
+  {
+    "id": 440,
+    "name": "Community Space",
+    "siteName": "Zorub",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.347878,
+      "longitude": 34.258425
+    }
+  },
+  {
+    "id": 441,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Alaa Abdeen",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.34777792,
+      "longitude": 34.2514298
+    }
+  },
+  {
+    "id": 442,
+    "name": "Community Space",
+    "siteName": "Al-Shaer",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.347316,
+      "longitude": 34.260502
+    }
+  },
+  {
+    "id": 443,
+    "name": "Health Space/Clinic",
+    "siteName": "Al-Shaer",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.345797,
+      "longitude": 34.258087
+    }
+  },
+  {
+    "id": 444,
+    "name": "Community Space",
+    "siteName": "Al-Bayari",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.345597,
+      "longitude": 34.262916
+    }
+  },
+  {
+    "id": 445,
+    "name": "Water Trucking Distribution point",
+    "siteName": "Al-Bayari",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.345443,
+      "longitude": 34.263521
+    }
+  },
+  {
+    "id": 446,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Al-Bayari",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.345426,
+      "longitude": 34.267407
+    }
+  },
+  {
+    "id": 447,
+    "name": "TLS/School ( AL Amal )",
+    "siteName": "Al-Bayari",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.345377,
+      "longitude": 34.2638643
+    }
+  },
+  {
+    "id": 448,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Al-Bayari",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.344983,
+      "longitude": 34.263117
+    }
+  },
+  {
+    "id": 450,
+    "name": "Health Space/Clinic - UNRWA",
+    "siteName": "Al-Suniyah",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.343554,
+      "longitude": 34.260623
+    }
+  },
+  {
+    "id": 451,
+    "name": "Health Space/Clinic - UNRWA",
+    "siteName": "Al-Bayyari",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.343554,
+      "longitude": 34.260623
+    }
+  },
+  {
+    "id": 452,
+    "name": "Community Space",
+    "siteName": "Al-Suniyah",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.343469,
+      "longitude": 34.260499
+    }
+  },
+  {
+    "id": 453,
+    "name": "TLS/School - Dar Al-Kitab & Al-Sunna",
+    "siteName": "Al-Suniyah",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Khanyounis",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.342692,
+      "longitude": 34.260114
+    }
+  },
+  {
+    "id": 454,
+    "name": "Community Space",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Suhaib Al-Hasanat",
+    "focal phone number": "597762015",
+    "coordinates": {
+      "latitude": 31.428631,
+      "longitude": 34.347758
+    }
+  },
+  {
+    "id": 455,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Fathi Al-Manay`a",
+    "focal phone number": "598413152",
+    "coordinates": {
+      "latitude": 31.428311,
+      "longitude": 34.34743
+    }
+  },
+  {
+    "id": 456,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Rajaa Srar",
+    "focal phone number": "597504410",
+    "coordinates": {
+      "latitude": 31.427469,
+      "longitude": 34.34629
+    }
+  },
+  {
+    "id": 457,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Shady Abu Saqer",
+    "focal phone number": "599810958",
+    "coordinates": {
+      "latitude": 31.428209,
+      "longitude": 34.346865
+    }
+  },
+  {
+    "id": 458,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Iyad Abu Lebda",
+    "focal phone number": "599493812",
+    "coordinates": {
+      "latitude": 31.429785,
+      "longitude": 34.344218
+    }
+  },
+  {
+    "id": 459,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Tareq Helles",
+    "focal phone number": "598715392",
+    "coordinates": {
+      "latitude": 31.430654,
+      "longitude": 34.344845
+    }
+  },
+  {
+    "id": 460,
+    "name": "Health Space/Clinic Hospitals",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Fadel Al-Sayed",
+    "focal phone number": "598144811",
+    "coordinates": {
+      "latitude": 31.4297,
+      "longitude": 34.34631
+    }
+  },
+  {
+    "id": 461,
+    "name": "Nutrition Center",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Suhaib Al-Hasanat",
+    "focal phone number": "597762015",
+    "coordinates": {
+      "latitude": 31.428631,
+      "longitude": 34.347758
+    }
+  },
+  {
+    "id": 462,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Ibraheem Al-Hasanat",
+    "focal phone number": "599807467",
+    "coordinates": {
+      "latitude": 31.428586,
+      "longitude": 34.347268
+    }
+  },
+  {
+    "id": 463,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Omar Al-Hasanat",
+    "focal phone number": "59448335",
+    "coordinates": {
+      "latitude": 31.427469,
+      "longitude": 34.34629
+    }
+  },
+  {
+    "id": 464,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Shady Abu Saqer",
+    "focal phone number": "599810958",
+    "coordinates": {
+      "latitude": 31.42825,
+      "longitude": 34.346818
+    }
+  },
+  {
+    "id": 465,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Iyad Abu Lebda",
+    "focal phone number": "599493812",
+    "coordinates": {
+      "latitude": 31.429881,
+      "longitude": 34.344075
+    }
+  },
+  {
+    "id": 466,
+    "name": "Community Kitchen - Tekeya",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Tareq Helles",
+    "focal phone number": "598715392",
+    "coordinates": {
+      "latitude": 31.430467,
+      "longitude": 34.345164
+    }
+  },
+  {
+    "id": 467,
+    "name": "TLS/School",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Nuha Al-Sheikh Yousef",
+    "focal phone number": "567426661",
+    "coordinates": {
+      "latitude": 31.428311,
+      "longitude": 34.34743
+    }
+  },
+  {
+    "id": 468,
+    "name": "TLS/School",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Haneen Salama",
+    "focal phone number": "594455847",
+    "coordinates": {
+      "latitude": 31.428924,
+      "longitude": 34.347087
+    }
+  },
+  {
+    "id": 469,
+    "name": "Distribution Point",
+    "siteName": "Al-Bader",
+    "governorate": "Deir Al-Balah",
+    "area": "Al-Bassa",
+    "focal": "Ibraheem Al-Hasanat",
+    "focal phone number": "599807467",
+    "coordinates": {
+      "latitude": 31.428586,
+      "longitude": 34.347268
+    }
+  },
+  {
+    "id": 470,
+    "name": "Community Space",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Dawood Al-Munifi",
+    "focal phone number": "598059083",
+    "coordinates": {
+      "latitude": 31.39124,
+      "longitude": 34.312165
+    }
+  },
+  {
+    "id": 471,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Hamada Amran",
+    "focal phone number": "595429698",
+    "coordinates": {
+      "latitude": 31.3878741,
+      "longitude": 34.3152209
+    }
+  },
+  {
+    "id": 472,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Nashaat Al-Masry",
+    "focal phone number": "598405356",
+    "coordinates": {
+      "latitude": 31.3902354,
+      "longitude": 34.3135873
+    }
+  },
+  {
+    "id": 473,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Marwan Kwara",
+    "focal phone number": "599928128",
+    "coordinates": {
+      "latitude": 31.3896421,
+      "longitude": 34.3154147
+    }
+  },
+  {
+    "id": 474,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Fawzi Abu Mostfa",
+    "focal phone number": "592728400",
+    "coordinates": {
+      "latitude": 31.3902354,
+      "longitude": 34.3135873
+    }
+  },
+  {
+    "id": 475,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ahmed Mhana",
+    "focal phone number": "599916160",
+    "coordinates": {
+      "latitude": 31.3917847,
+      "longitude": 34.3114806
+    }
+  },
+  {
+    "id": 476,
+    "name": "Water Trucking Distribution Point",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Dawood Al-Munifi",
+    "focal phone number": "598059083",
+    "coordinates": {
+      "latitude": 31.39105,
+      "longitude": 34.312573
+    }
+  },
+  {
+    "id": 477,
+    "name": "Health Space/Clinic Hospitals",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ezz El-Din Atta Zaarab",
+    "focal phone number": "599901682",
+    "coordinates": {
+      "latitude": 31.3888356,
+      "longitude": 34.3152733
+    }
+  },
+  {
+    "id": 478,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Hamada Amran",
+    "focal phone number": "595429698",
+    "coordinates": {
+      "latitude": 31.3878741,
+      "longitude": 34.3152209
+    }
+  },
+  {
+    "id": 479,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Nashaat Al-Masry",
+    "focal phone number": "598405356",
+    "coordinates": {
+      "latitude": 31.3902354,
+      "longitude": 34.3135873
+    }
+  },
+  {
+    "id": 480,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Marwan Kwara",
+    "focal phone number": "599928128",
+    "coordinates": {
+      "latitude": 31.3896421,
+      "longitude": 34.3154147
+    }
+  },
+  {
+    "id": 481,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Fawzi Abu Mostfa",
+    "focal phone number": "592728400",
+    "coordinates": {
+      "latitude": 31.3902354,
+      "longitude": 34.3135873
+    }
+  },
+  {
+    "id": 482,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ezz El-Din Atta Zaarab",
+    "focal phone number": "599901682",
+    "coordinates": {
+      "latitude": 31.3884703,
+      "longitude": 34.3151429
+    }
+  },
+  {
+    "id": 483,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Mohammed Kwara",
+    "focal phone number": "567808802",
+    "coordinates": {
+      "latitude": 31.3902168,
+      "longitude": 34.3120979
+    }
+  },
+  {
+    "id": 484,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ahmed Mhana",
+    "focal phone number": "599916160",
+    "coordinates": {
+      "latitude": 31.3917847,
+      "longitude": 34.3114806
+    }
+  },
+  {
+    "id": 485,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Ahmed Al-Suwaisi",
+    "focal phone number": "567727008",
+    "coordinates": {
+      "latitude": 31.39124,
+      "longitude": 34.312165
+    }
+  },
+  {
+    "id": 486,
+    "name": "Community Kitchen - Tekeya - WCK",
+    "siteName": "Basant",
+    "governorate": "Khanyounis",
+    "area": "Mawasi Al-Qarara",
+    "focal": "Sultan Abu Halib",
+    "focal phone number": "597179753",
+    "coordinates": {
+      "latitude": 31.389655,
+      "longitude": 34.3119567
+    }
+  },
+  {
+    "id": 487,
+    "name": "Health Space/Clinic - Al-Shifa Hospital - phone need to edit",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.524323,
+      "longitude": 34.443496
+    }
+  },
+  {
+    "id": 488,
+    "name": "Health Space/Clinic - Public Aid Hospital",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.510274,
+      "longitude": 34.458461
+    }
+  },
+  {
+    "id": 489,
+    "name": "Health Space/Clinic - IMC Field Hospital",
+    "siteName": "",
+    "governorate": "Deir Al-Balah",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.433017,
+      "longitude": 34.346181
+    }
+  },
+  {
+    "id": 490,
+    "name": "Health Space/Clinic - Al-Aqsa Hospital",
+    "siteName": "",
+    "governorate": "Deir Al-Balah",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.420154,
+      "longitude": 34.359656
+    }
+  },
+  {
+    "id": 491,
+    "name": "Health Space/Clinic - Al-Awda Hospital - Nuseirat",
+    "siteName": "",
+    "governorate": "Al-Nuseirat",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.45219,
+      "longitude": 34.388917
+    }
+  },
+  {
+    "id": 492,
+    "name": "Health Space/Clinic - ICRC Field Hospital",
+    "siteName": "",
+    "governorate": "Rafah",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.341953,
+      "longitude": 34.24342
+    }
+  },
+  {
+    "id": 493,
+    "name": "Health Space/Clinic - UK Med Field Hospital",
+    "siteName": "",
+    "governorate": "Rafah",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.346597,
+      "longitude": 34.24886
+    }
+  },
+  {
+    "id": 494,
+    "name": "Health Space/Clinic - Nasser Hospital",
+    "siteName": "",
+    "governorate": "Khanyounis",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.347181,
+      "longitude": 34.292823
+    }
+  },
+  {
+    "id": 495,
+    "name": "Health Space/Clinic - MSF B Field Hospital Al-Zuwaida",
+    "siteName": "",
+    "governorate": "Al-Zawaida",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.435983,
+      "longitude": 34.35586
+    }
+  },
+  {
+    "id": 496,
+    "name": "Health Space/Clinic - PRCS Saraya Field Hospital Gaza City",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.513708,
+      "longitude": 34.450543
+    }
+  },
+  {
+    "id": 497,
+    "name": "Health Space/Clinic - PRCS Al-Quds Hospital Gaza City",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.505935,
+      "longitude": 34.430417
+    }
+  },
+  {
+    "id": 498,
+    "name": "Health Space/Clinic - Patient Friends Benevolent Society",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.517585,
+      "longitude": 34.4455
+    }
+  },
+  {
+    "id": 499,
+    "name": "Health Space/Clinic - Kuwaiti Field Hospital Heal Palestine",
+    "siteName": "",
+    "governorate": "Khanyounis",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.3575,
+      "longitude": 34.278611
+    }
+  },
+  {
+    "id": 500,
+    "name": "Health Space/Clinic - PRCS field hospital Mawasi Khan Younis",
+    "siteName": "",
+    "governorate": "Khanyounis",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.368143,
+      "longitude": 34.274015
+    }
+  },
+  {
+    "id": 501,
+    "name": "Health Space/Clinic - Al-Amal Hospital",
+    "siteName": "",
+    "governorate": "Khanyounis",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.3513,
+      "longitude": 34.298861
+    }
+  },
+  {
+    "id": 502,
+    "name": "Health Space/Clinic - MSF Belgium - PHCC",
+    "siteName": "",
+    "governorate": "Khanyounis",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.386277,
+      "longitude": 34.292788
+    }
+  },
+  {
+    "id": 503,
+    "name": "Health Space/Clinic - Kamal Adwan",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.5381144,
+      "longitude": 34.5004937
+    }
+  },
+  {
+    "id": 504,
+    "name": "Health Space/Clinic - Al Karama",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.5424315,
+      "longitude": 34.4698757
+    }
+  },
+  {
+    "id": 505,
+    "name": "Health Space/Clinic - Mohamed Al Durrah Hospital",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.5141216,
+      "longitude": 34.4795944
+    }
+  },
+  {
+    "id": 506,
+    "name": "Health Space/Clinic - Al-Rantisi",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.5322038,
+      "longitude": 34.4613879
+    }
+  },
+  {
+    "id": 507,
+    "name": "Health Space/Clinic - Al Helou International Hospital",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.525192,
+      "longitude": 34.4474923
+    }
+  },
+  {
+    "id": 508,
+    "name": "Health Space/Clinic - Al Wafaa Rehabilitation Hospital",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.513549,
+      "longitude": 34.4526613
+    }
+  },
+  {
+    "id": 509,
+    "name": "Health Space/Clinic - Assahaba Medical Complex",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.5176331,
+      "longitude": 34.4595661
+    }
+  },
+  {
+    "id": 510,
+    "name": "Health Space/Clinic - Al Ahli Arab Hospital",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.5053254,
+      "longitude": 34.4617348
+    }
+  },
+  {
+    "id": 511,
+    "name": "Health Space/Clinic - Haifa Charity Hospital",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.5075803,
+      "longitude": 34.4724815
+    }
+  },
+  {
+    "id": 512,
+    "name": "Health Space/Clinic - St. John's Eye Hospital",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.5132772,
+      "longitude": 34.4379915
+    }
+  },
+  {
+    "id": 513,
+    "name": "Health Space/Clinic - Yaffa Hospital",
+    "siteName": "",
+    "governorate": "Deir Al-Balah",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.4181315,
+      "longitude": 34.3451955
+    }
+  },
+  {
+    "id": 514,
+    "name": "Health Space/Clinic - Dar Essalam Hospital",
+    "siteName": "",
+    "governorate": "Khanyounis",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.3516981,
+      "longitude": 34.3210272
+    }
+  },
+  {
+    "id": 515,
+    "name": "Health Space/Clinic - Al-Khair Hospital",
+    "siteName": "",
+    "governorate": "Khanyounis",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.3543958,
+      "longitude": 34.2811647
+    }
+  },
+  {
+    "id": 516,
+    "name": "Health Space/Clinic - IMC Field Hospital",
+    "siteName": "",
+    "governorate": "Gaza City",
+    "area": "",
+    "focal": "",
+    "focal phone number": "",
+    "coordinates": {
+      "latitude": 31.5171941,
+      "longitude": 34.4371911
+    }
+  }
+]
