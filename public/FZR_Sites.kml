@@ -1097,15 +1097,6 @@
       </Polygon>
     </Placemark>
     <Placemark>
-      <name>Security recomendations </name>
-      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-      <Point>
-        <coordinates>
-          34.262121,31.346316,0
-        </coordinates>
-      </Point>
-    </Placemark>
-    <Placemark>
       <name>Al-Karama Site - DEB0077</name>
       <description><![CDATA[الكرامة <br> <br> SHAPE Polygon <br> Name الكرامة <br> Area <br> Site Code DEB0077 <br> SHAPE_Length 0.01014 <br> SHAPE_Area 0.000004‏‏]]></description>
       <styleUrl>#poly-C5E1A5-1000-163</styleUrl>
