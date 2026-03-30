@@ -1,6 +1,6 @@
 'use client';
 
-import { useCallback, useEffect, useRef, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import Select from 'react-select';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet-routing-machine/dist/leaflet-routing-machine.css';
@@ -611,6 +611,7 @@ export default function Home() {
   const [activeMarkerKey, setActiveMarkerKey] = useState(null);
   const [isSatelliteView, setIsSatelliteView] = useState(false);
   const [mapReady, setMapReady] = useState(false);
+  const [shouldCenterOnServices, setShouldCenterOnServices] = useState(false);
   const mapRef = useRef(null);
   const leafletRef = useRef(null);
   const markerPanelHideTimeout = useRef(null);
@@ -620,6 +621,26 @@ export default function Home() {
   const userMarkerRef = useRef(null);
   const hasCenteredOnUserRef = useRef(false);
   const mapContainerRef = useRef(null);
+  const servicesCenter = useMemo(() => {
+    if (!services.length) return DEFAULT_MAP_CENTER;
+    const totals = services.reduce((acc, service) => {
+      const lat = service?.coordinates?.latitude;
+      const lng = service?.coordinates?.longitude;
+      if (typeof lat === 'number' && typeof lng === 'number') {
+        acc.lat += lat;
+        acc.lng += lng;
+        acc.count += 1;
+      }
+      return acc;
+    }, { lat: 0, lng: 0, count: 0 });
+    if (!totals.count) return DEFAULT_MAP_CENTER;
+    return [totals.lat / totals.count, totals.lng / totals.count];
+  }, [services]);
+  const headerLogoSrc = isMobile ? '/ACTED_LOGO_white.png' : '/acted-logo.png';
+  const inactiveLanguage = lang === 'ar' ? 'en' : 'ar';
+  const inactiveLanguageLabel = inactiveLanguage === 'en' ? 'EN' : 'العربية';
+  const inactiveLabelClass = `text-xs sm:text-sm font-semibold ${inactiveLanguage === 'ar' ? notoArabic.className : 'tracking-[0.2em] uppercase'}`;
+  const toggleAriaLabel = inactiveLanguage === 'en' ? 'Switch to English' : 'التبديل إلى العربية';
   const handleLanguageToggle = useCallback(() => {
     setLang((prev) => {
       const nextLang = prev === 'ar' ? 'en' : 'ar';
@@ -880,6 +901,7 @@ export default function Home() {
   useEffect(() => {
     if (typeof window !== 'undefined' && !window.isSecureContext) {
       setGeoError('geolocationInsecure');
+      setShouldCenterOnServices(true);
       setLoading(false);
       return;
     }
@@ -889,14 +911,21 @@ export default function Home() {
           const { latitude, longitude } = position.coords;
           setUserLocation([latitude, longitude]);
           setGeoError(null);
+          setShouldCenterOnServices(false);
           setLoading(false);
         },
         (error) => {
           console.error('Geolocation error:', error);
-          if (error.code === error.PERMISSION_DENIED) setGeoError('geolocationPermissionDenied');
-          else if (error.code === error.POSITION_UNAVAILABLE) setGeoError('geolocationUnavailable');
-          else if (error.code === error.TIMEOUT) setGeoError('geolocationTimeout');
-          else setGeoError('geolocationError');
+          if (error.code === error.PERMISSION_DENIED) {
+            setGeoError('geolocationPermissionDenied');
+            setShouldCenterOnServices(true);
+          } else if (error.code === error.POSITION_UNAVAILABLE) {
+            setGeoError('geolocationUnavailable');
+          } else if (error.code === error.TIMEOUT) {
+            setGeoError('geolocationTimeout');
+          } else {
+            setGeoError('geolocationError');
+          }
           setLoading(false);
         }
         , {
@@ -908,6 +937,7 @@ export default function Home() {
       // Geolocation not available, use default location
       console.log('Geolocation not supported');
       setGeoError('geolocationUnavailable');
+      setShouldCenterOnServices(true);
       setLoading(false);
     }
   }, []);
@@ -980,7 +1010,7 @@ export default function Home() {
     const L = leafletRef.current;
     if (!leafletReady || !L || mapRef.current || !mapContainerRef.current) return;
 
-    const initialCenter = userLocation || DEFAULT_MAP_CENTER;
+    const initialCenter = userLocation || (shouldCenterOnServices ? servicesCenter : DEFAULT_MAP_CENTER);
     const initialZoom = userLocation ? USER_LOCATION_ZOOM : DEFAULT_MAP_ZOOM;
     const mapInstance = L.map(mapContainerRef.current).setView(initialCenter, initialZoom);
 
@@ -1067,7 +1097,7 @@ export default function Home() {
       setIsSatelliteView(false);
       setMapReady(false);
     };
-  }, [leafletReady, userLocation, services]);
+  }, [leafletReady, userLocation, services, shouldCenterOnServices, servicesCenter]);
 
   useEffect(() => {
     if (!mapReady || !mapRef.current || !leafletRef.current) return;
@@ -1096,6 +1126,12 @@ export default function Home() {
       hasCenteredOnUserRef.current = true;
     }
   }, [userLocation, mapReady]);
+
+  useEffect(() => {
+    if (!shouldCenterOnServices || userLocation) return;
+    if (!mapReady || !mapRef.current) return;
+    mapRef.current.flyTo(servicesCenter, DEFAULT_MAP_ZOOM);
+  }, [shouldCenterOnServices, userLocation, mapReady, servicesCenter]);
 
   useEffect(() => {
     if (!leafletReady || !mapReady || !mapRef.current || !leafletRef.current) return;
@@ -1332,19 +1368,17 @@ export default function Home() {
     >
       <header className="shadow-md border-b border-gray-200 dark:border-zinc-800 px-1 sm:px-6 py-1 sm:py-2" style={{ backgroundColor: '#1b1464' }}>
         <div className="flex items-center justify-center gap-1 sm:gap-3 w-full">
-          <img src="/acted-logo.png" alt="ACTED Logo" className="h-10 sm:h-16 w-auto" />
+          <img src={headerLogoSrc} alt="ACTED Logo" className={`w-auto ${isMobile ? 'h-14' : 'h-10 sm:h-16'}`} />
           <h1 className="text-base sm:text-2xl font-bold text-center w-full whitespace-nowrap" style={{ color: '#fff' }}>{t[lang].appTitle}</h1>
-          <div style={{ minWidth: isMobile ? 120 : 180 }} className="sm:min-w-[200px]">
+          <div className="flex justify-end">
             <button
               type="button"
               onClick={handleLanguageToggle}
-              className="w-full flex items-center justify-center gap-2 rounded-[10px] bg-white text-[#1b1464] font-semibold px-2.5 py-1.5 sm:px-3 sm:py-2 text-xs sm:text-sm shadow-sm hover:shadow-md focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-200 transition whitespace-nowrap"
-              aria-label={lang === 'ar' ? 'التبديل إلى الإنجليزية' : 'Switch to Arabic'}
+              className="inline-flex items-center justify-center gap-2 rounded-[10px] bg-white text-[#1b1464] px-5 py-2 shadow-sm hover:shadow-md focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-200 transition"
+              aria-label={toggleAriaLabel}
             >
+              <span className={inactiveLabelClass}>{inactiveLanguageLabel}</span>
               <img src="/translate.png" alt="" aria-hidden="true" className="w-4 h-4 sm:w-5 sm:h-5" />
-              <span className={`transition-opacity ${lang === 'en' ? 'opacity-100' : 'opacity-60'}`}>English</span>
-              <span className="opacity-40">/</span>
-              <span className={`transition-opacity ${lang === 'ar' ? 'opacity-100' : 'opacity-60'} ${notoArabic.className}`}>العربية</span>
             </button>
           </div>
         </div>

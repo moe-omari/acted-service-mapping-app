@@ -222,6 +222,11 @@ export default function ResourcesLandingPage() {
     setLang(prev => (prev === 'ar' ? 'en' : 'ar'));
   }, []);
   const t = translations[lang];
+  const headerLogoSrc = isMobile ? '/ACTED_LOGO_white.png' : '/acted-logo.png';
+  const inactiveLanguage = lang === 'ar' ? 'en' : 'ar';
+  const inactiveLanguageLabel = inactiveLanguage === 'en' ? 'EN' : 'العربية';
+  const inactiveLabelClass = `text-xs sm:text-sm font-semibold ${inactiveLanguage === 'ar' ? notoArabic.className : 'tracking-[0.2em] uppercase'}`;
+  const toggleAriaLabel = inactiveLanguage === 'en' ? 'Switch to English' : 'التبديل إلى العربية';
 
   useEffect(() => {
     if (typeof window === 'undefined') return;
@@ -250,21 +255,19 @@ export default function ResourcesLandingPage() {
     >
       <header className="shadow-md border-b border-gray-200 dark:border-zinc-800 px-1 sm:px-6 py-1 sm:py-2" style={{ backgroundColor: '#1b1464' }}>
         <div className="flex items-center justify-center gap-1 sm:gap-3 w-full">
-          <img src="/acted-logo.png" alt="ACTED Logo" className="h-10 sm:h-16 w-auto" />
+          <img src={headerLogoSrc} alt="ACTED Logo" className={`w-auto ${isMobile ? 'h-14' : 'h-10 sm:h-16'}`} />
           <h1 className="text-base sm:text-2xl font-bold text-center w-full whitespace-nowrap" style={{ color: '#fff' }}>
             {lang === 'ar' ? 'بوابة الموارد' : 'Resources Hub'}
           </h1>
-          <div style={{ minWidth: isMobile ? 120 : 180 }} className="sm:min-w-[200px]">
+          <div className="flex justify-end">
             <button
               type="button"
               onClick={handleLanguageToggle}
-              className="w-full flex items-center justify-center gap-2 rounded-[10px] bg-white text-[#1b1464] font-semibold px-2.5 py-1.5 sm:px-3 sm:py-2 text-xs sm:text-sm shadow-sm hover:shadow-md focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-200 transition whitespace-nowrap"
-              aria-label={lang === 'ar' ? 'التبديل إلى الإنجليزية' : 'Switch to Arabic'}
+              className="inline-flex items-center justify-center gap-2 rounded-[10px] bg-white text-[#1b1464] px-5 py-2 shadow-sm hover:shadow-md focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-200 transition"
+              aria-label={toggleAriaLabel}
             >
+              <span className={inactiveLabelClass}>{inactiveLanguageLabel}</span>
               <img src="/translate.png" alt="" aria-hidden="true" className="w-4 h-4 sm:w-5 sm:h-5" />
-              <span className={`transition-opacity ${lang === 'en' ? 'opacity-100' : 'opacity-60'}`}>English</span>
-              <span className="opacity-40">/</span>
-              <span className={`transition-opacity ${lang === 'ar' ? 'opacity-100' : 'opacity-60'} ${notoArabic.className}`}>العربية</span>
             </button>
           </div>
         </div>
