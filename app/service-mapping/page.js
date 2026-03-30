@@ -1211,9 +1211,7 @@ export default function Home() {
             const translatedSiteName = t[lang].siteNames[s.siteName] || s.siteName;
             const translatedGov = t[lang].governorates[s.governorate] || s.governorate;
             const translatedArea = t[lang].areas[s.area] || s.area;
-            const focalLine = s.focal ? `<br/><b>${t[lang].focal}:</b> ${s.focal}` : '';
-            const focalPhoneLine = s['focal phone number'] ? `<br/><b>Focal Phone:</b> ${s['focal phone number']}` : '';
-            return `<b>${translatedName}</b><br/><small>${translatedSiteName}</small><br/><small>${translatedGov} - ${translatedArea}</small><br/><small>${getServiceType(s.name)}</small>${focalLine}${focalPhoneLine}`;
+            return `<b>${translatedName}</b><br/><small>${translatedSiteName}</small><br/><small>${translatedGov} - ${translatedArea}</small><br/><small>${getServiceType(s.name)}</small>`;
           }).join('<hr/>');
           layer.setPopupContent(popupContent);
         }
@@ -1349,10 +1347,6 @@ export default function Home() {
               <div className="font-semibold text-lg mb-1">{t[lang].services_provided[s.name] || s.name}</div>
               <div className="text-sm mb-1">{t[lang].governorates[s.governorate] || s.governorate} - {t[lang].areas[s.area] || s.area}</div>
               <div className="text-xs mb-1">{getServiceType(s.name)}</div>
-              {s.focal && <div className="text-xs mb-1"><b>{t[lang].focal}:</b> {s.focal}</div>}
-              {s['focal phone number'] && (
-                <div className="text-xs"><b>{lang === 'ar' ? 'رقم جوال شخص التواصل' : 'Focal Phone'}:</b> {s['focal phone number']}</div>
-              )}
             </div>
           ))}
         </div>
