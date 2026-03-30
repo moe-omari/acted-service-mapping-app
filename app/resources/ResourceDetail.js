@@ -8,8 +8,8 @@ import { Noto_Sans_Arabic } from 'next/font/google';
 const notoArabic = Noto_Sans_Arabic({ subsets: ['arabic'], weight: ['400', '500', '600', '700'] });
 
 const getStoredLanguage = () => {
-  if (typeof window === 'undefined') return 'en';
-  return window.localStorage.getItem('selectedLang') || 'en';
+  if (typeof window === 'undefined') return 'ar';
+  return window.localStorage.getItem('selectedLang') || 'ar';
 };
 
 const interfaceText = {
@@ -26,7 +26,7 @@ const interfaceText = {
 };
 
 export default function ResourceDetail({ resource }) {
-  const [lang, setLang] = useState('en');
+  const [lang, setLang] = useState('ar');
   const isArabic = lang === 'ar';
   const copy = resource.translations[lang] ?? resource.translations.en;
   const ui = interfaceText[lang];

@@ -1,8 +1,7 @@
 "use client";
 
 import Link from 'next/link';
-import { useCallback, useEffect, useMemo, useState } from 'react';
-import Select from 'react-select';
+import { useCallback, useEffect, useState } from 'react';
 import { Noto_Sans_Arabic } from 'next/font/google';
 
 const notoArabic = Noto_Sans_Arabic({ subsets: ['arabic'], weight: ['400', '500', '600', '700'] });
@@ -41,8 +40,8 @@ const resourceSections = [
 ];
 
 const getStoredLanguage = () => {
-  if (typeof window === 'undefined') return 'en';
-  return window.localStorage.getItem('selectedLang') || 'en';
+  if (typeof window === 'undefined') return 'ar';
+  return window.localStorage.getItem('selectedLang') || 'ar';
 };
 
 const translations = {
@@ -217,15 +216,11 @@ const translations = {
 };
 
 export default function ResourcesLandingPage() {
-  const [lang, setLang] = useState('en');
+  const [lang, setLang] = useState('ar');
   const [isMobile, setIsMobile] = useState(false);
-  const languageOptions = useMemo(() => ([
-    { value: 'en', label: 'English' },
-    { value: 'ar', label: 'العربية' },
-  ]), []);
-  const renderLanguageOption = useCallback((option) => (
-    option.value === 'ar' ? <span className={notoArabic.className}>{option.label}</span> : option.label
-  ), []);
+  const handleLanguageToggle = useCallback(() => {
+    setLang(prev => (prev === 'ar' ? 'en' : 'ar'));
+  }, []);
   const t = translations[lang];
 
   useEffect(() => {
@@ -259,50 +254,18 @@ export default function ResourcesLandingPage() {
           <h1 className="text-base sm:text-2xl font-bold text-center w-full whitespace-nowrap" style={{ color: '#fff' }}>
             {lang === 'ar' ? 'بوابة الموارد' : 'Resources Hub'}
           </h1>
-          <div style={{ minWidth: isMobile ? 90 : 120 }} className="sm:min-w-[160px]">
-            <Select
-              value={languageOptions.find(option => option.value === lang)}
-              onChange={option => setLang(option?.value || 'en')}
-              options={languageOptions}
-              instanceId="resources-landing-lang-select"
-              formatOptionLabel={renderLanguageOption}
-              isRtl={lang === 'ar'}
-              styles={{
-                control: (base, state) => ({
-                  ...base,
-                  backgroundColor: '#fff',
-                  color: '#1b1464',
-                  border: 'none',
-                  minHeight: isMobile ? 28 : 36,
-                  boxShadow: state.isFocused ? '0 0 0 1px #1b1464' : base.boxShadow,
-                  fontSize: isMobile ? '0.7rem' : '0.85rem',
-                  paddingLeft: isMobile ? 2 : 4,
-                  paddingRight: isMobile ? 2 : 4,
-                }),
-                singleValue: (base) => ({
-                  ...base,
-                  color: '#1b1464',
-                  fontWeight: 'bold',
-                  fontSize: isMobile ? '0.7rem' : '0.85rem',
-                }),
-                menu: (base) => ({ ...base, zIndex: 20 }),
-                option: (base, state) => ({
-                  ...base,
-                  backgroundColor: state.isSelected
-                    ? '#1b1464'
-                    : state.isFocused
-                      ? '#e0e7ff'
-                      : '#fff',
-                  color: state.isSelected ? '#fff' : '#1b1464',
-                  cursor: 'pointer',
-                  fontSize: isMobile ? '0.7rem' : '0.85rem',
-                }),
-                indicatorsContainer: (base) => ({ ...base, color: '#1b1464' }),
-                dropdownIndicator: (base) => ({ ...base, color: '#1b1464', padding: isMobile ? '2px' : '4px' }),
-              }}
-              aria-label="Language Switch"
-              isSearchable={false}
-            />
+          <div style={{ minWidth: isMobile ? 120 : 180 }} className="sm:min-w-[200px]">
+            <button
+              type="button"
+              onClick={handleLanguageToggle}
+              className="w-full flex items-center justify-center gap-2 rounded-[10px] bg-white text-[#1b1464] font-semibold px-2.5 py-1.5 sm:px-3 sm:py-2 text-xs sm:text-sm shadow-sm hover:shadow-md focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-200 transition whitespace-nowrap"
+              aria-label={lang === 'ar' ? 'التبديل إلى الإنجليزية' : 'Switch to Arabic'}
+            >
+              <img src="/translate.png" alt="" aria-hidden="true" className="w-4 h-4 sm:w-5 sm:h-5" />
+              <span className={`transition-opacity ${lang === 'en' ? 'opacity-100' : 'opacity-60'}`}>English</span>
+              <span className="opacity-40">/</span>
+              <span className={`transition-opacity ${lang === 'ar' ? 'opacity-100' : 'opacity-60'} ${notoArabic.className}`}>العربية</span>
+            </button>
           </div>
         </div>
       </header>
